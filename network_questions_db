@@ -1,5 +1,4 @@
-A collection of OS Networking interview questions. Feel free to contribute via pull requests, issues or email messages.
-
+@@ A collection of OS Networking interview questions. Feel free to contribute via pull requests to https://github.com/v-nightwolf/nightwolf.git @@
 
 What is localhost and why would ping localhost fail?
 What is the similarity between "ping" & "traceroute" ? How is traceroute able to find the hops.
