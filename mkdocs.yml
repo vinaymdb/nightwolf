@@ -1,0 +1,20 @@
+site_name: nightWolf
+site_url: http://nightwolf.in/
+site_favicon: 'img/wolf.png'
+theme:
+    name: mkdocs 
+    nav_style: dark
+    logo: wolf.png
+
+# Copyright
+copyright: 'Copyright &copy; 2022 nightWolf'
+
+nav:
+    - Home: index.md
+    - Performance-Troubleshooting: performance.md
+    - Interview Preparation: interview.md
+
+#        - 'Linux + OS Interview Questions': 'linux_questionairs.md'
+#        - 'Networking Interview Questions': 'network.md'
+
+
